@@ -5,11 +5,11 @@ const CONFIG = {
     title: 'Chúc em sinh nhật hạnh phúc và chàn đầy tiếng cười nha!',
     desc: 'Mãi bên nhau bạn nhé, yêu em',
     btnYes: 'Mãi yêu chú bộ đội đẹp trai <33',
-    btnNo: 'Không yêu thương gì hết ',
+    btnNo: 'Không yêu thương gì hết :( ',
     question:'Tình yêu muốn anh tặng quà gì nào? <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Tặng anh cho em là được <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'Anh biết mà, hihi. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Nhớ là mãi yêu anh đấy nhé',
     btnAccept: 'Okiiiii lun <3',
 }
